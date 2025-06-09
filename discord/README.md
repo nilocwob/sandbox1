@@ -1,0 +1,2 @@
+Follow guidelines from discord.py documentation at https://discordpy.readthedocs.io/en/stable/
+You will need your own token for the bot. It should be in a separate filed title .env and the token can be generated from the Discord Developer page for your bot.
